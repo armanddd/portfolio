@@ -2130,4 +2130,8 @@ form label {
   color: #66D37E;
 }
 
+.linkz:hover{
+  opacity:0.5!important;
+}
+
 /*# sourceMappingURL=style.css.map */
